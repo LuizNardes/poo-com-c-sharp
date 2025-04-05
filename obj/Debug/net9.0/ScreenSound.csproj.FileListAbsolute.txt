@@ -1,0 +1,14 @@
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/bin/Debug/net9.0/ScreenSound
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/bin/Debug/net9.0/ScreenSound.deps.json
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/bin/Debug/net9.0/ScreenSound.runtimeconfig.json
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/bin/Debug/net9.0/ScreenSound.dll
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/bin/Debug/net9.0/ScreenSound.pdb
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ScreenSound.AssemblyInfoInputs.cache
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ScreenSound.AssemblyInfo.cs
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ScreenSound.csproj.CoreCompileInputs.cache
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ScreenSound.dll
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/refint/ScreenSound.dll
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ScreenSound.pdb
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ScreenSound.genruntimeconfig.cache
+/home/abensoft/Documentos/Aprendendo Erlang/ScreenSound/obj/Debug/net9.0/ref/ScreenSound.dll
